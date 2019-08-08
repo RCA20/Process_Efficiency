@@ -228,7 +228,7 @@ void Stop()
     delay(100);
   }
   Menu();
-  Counter = 0;
+  Count = 0;
   Option = 3;
 }
 
